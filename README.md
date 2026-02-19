@@ -12,6 +12,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="60" />
 </div>
-
-## Estatisticas 
-![Profile Views](https://komarev.com/ghpvc/?username=NathanG16&color=blue)
