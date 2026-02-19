@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Nathan
 
-<!--
-**NathanG16/NathanG16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação  
+📍 Brusque - SC  
+🎯 Em busca de oportunidade como desenvolvedor júnior
+📚 Estudando e construindo projetos práticos
 
-Here are some ideas to get you started:
+## Tecnologias Conhecidas 
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" widtd="60"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" widtd="60" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" widtd="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" widtd="60" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatisticas 
+<div>
+  <a href="https://github.com/NathanG16">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanG16&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanG16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
