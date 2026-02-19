@@ -14,4 +14,4 @@
 </div>
 
 ## Estatisticas 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanG16&show_icons=true&theme=tokyonight"/>
+![Profile Views](https://komarev.com/ghpvc/?username=NathanG16&color=blue)
